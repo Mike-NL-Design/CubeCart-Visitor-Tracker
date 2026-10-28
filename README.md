@@ -1,4 +1,4 @@
-# Visitor Tracker for CubeCart
+# Visitor Tracker for CubeCart v1.3.3
 
 buymeacoffee.com/nlbiertjenl
 
